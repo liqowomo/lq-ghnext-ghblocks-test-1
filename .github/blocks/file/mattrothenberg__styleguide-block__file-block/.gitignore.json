@@ -3,6 +3,10 @@
     {
       "title": "New Component",
       "code": "<button className='btn'>I'm a lonely button</button>"
+    },
+    {
+      "title": "New Component",
+      "code": "<button className='btn'>I'm dingazat</button>"
     }
   ]
 }
